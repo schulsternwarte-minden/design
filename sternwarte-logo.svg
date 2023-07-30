@@ -60,13 +60,13 @@
     <g id="name">
       <g transform="translate(0.09477402231215 36.90626039068968)">
         <text
-          x="115.19501388763399" y="0" font-size="24.6px" x="23.458093267832712px" class="name fill text_fill"
+          x="115.19501388763399" y="0" font-size="24.6px" font-size-old="23.458093267832712px" class="name fill text_fill"
           text-anchor="middle" style="white-space: pre;" direction="ltr"
           dominant-baseline="text-before-edge">Minden-Lübbecke e.V.</text>
       </g>
       <g transform="translate(0.33783427177826 0.49084224736049)">
         <text
-          x="114.87434560968369" y="0" font-size="33px" x="29.436091770968297px" class="name fill text_fill"
+          x="114.87434560968369" y="0" font-size="33px" font-size-old="29.436091770968297px" class="name fill text_fill"
           text-anchor="middle" style="white-space: pre;" direction="ltr"
           dominant-baseline="text-before-edge">Schulsternwarte</text>
       </g>
