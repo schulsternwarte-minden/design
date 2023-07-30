@@ -63,6 +63,12 @@
 
 ## Logo
 
+Das Basislogo erlaubt den Text unter oder rechts des Logos zu platzieren. Die Schrift soll der Google Font [Heebo](https://fonts.google.com/specimen/Heebo?query=heebo) sein. Leider läuft derzeit noch etwas beim Export schief, weshalb hier in den Demos der falsche Schriftzug erscheint. Daher hier die beiden Varianten als Screenshots...  🙈
+
+<img src="sternwarte-logo-rechts.png" width="100%" style="border: 1px solid lightgray"/>
+
+<img src="sternwarte-logo-unten.png" width="100%" style="border: 1px solid lightgray; margin: 10px 0;" />
+
 <table>
     <tr>
         <td>
