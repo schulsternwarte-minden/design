@@ -63,4 +63,53 @@
 
 ## Logo
 
-<img src="design/sternwarte-logo.svg" width="400px" alt="Logo" />
+<table>
+    <tr>
+        <td>
+            <img src="logo-below-bg1-fg6.png" />
+        </td>
+        <td>
+            <img src="logo-below-bg1-fg6-emphasize.png" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="logo-below-bg2-fg6.png" />
+        </td>
+        <td>
+            <img src="logo-below-bg2-fg6-emphasize.png" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="logo-below-bg3-fg6.png" />
+        </td>
+        <td>
+            <img src="logo-below-bg3-fg6-emphasize.png" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="logo-below-bg4-fg6.png" />
+        </td>
+        <td>
+            <img src="logo-below-bg4-fg6-emphasize.png" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="logo-below-bg5-fg6.png" />
+        </td>
+        <td>
+            <img src="logo-below-bg5-fg6-emphasize.png" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="logo-below-bg6-fg1.png" />
+        </td>
+        <td>
+            <img src="logo-below-bg6-fg1-emphasize.png" />
+        </td>
+    </tr>
+</table>

@@ -1,4 +1,4 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 593.812915772755 155.22887697548055"
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 321.812915772755 155.22887697548055"
   width="593.812915772755" height="155.22887697548055">
   <!-- svg-source:excalidraw -->
   <defs>
@@ -19,30 +19,31 @@
       }
 
       .stroke {
-        stroke: var(--space-1, orange);
+        stroke: var(--space-6, orange);
       }
 
       .fill {
-        fill: var(--space-6, red);
+        fill: var(--space-5, red);
       }
 
       .text_fill {
-        fill: var(--space-1, orange);
+        fill: var(--space-6, orange);
       }
 
       .background_fill {
-        fill: white;
+        fill: var(--space-5);
       }
+
       .moon_fill {
         /* fill: #f3ff16; */
       }
 
       .telescope_fill {
-        fill: var(--space-6);
+        fill: var(--space-4);
       }
 
       .name_fill {
-        fill: var(--space-1);
+        fill: var(--space-6);
       }
 
       .name_stroke {
@@ -54,7 +55,7 @@
       }
 
       #name_right {
-        display: block;
+        display: none;
       }
 
       @font-face {
