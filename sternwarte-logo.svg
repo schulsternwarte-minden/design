@@ -240,6 +240,6 @@
     </g>
   </g>
   <mask></mask>
-  <use id="name_below" xlink:href="#name" x="41" y="75" />
-  <use id="name_right" xlink:href="#name" x="321" y="2" />
+  <use id="name_below" href="#name" x="41" y="75" />
+  <use id="name_right" href="#name" x="321" y="2" />
 </svg>
