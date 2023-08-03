@@ -119,3 +119,15 @@ Das Basislogo erlaubt den Text unter oder rechts des Logos zu platzieren. Die Sc
         </td>
     </tr>
 </table>
+
+## Favicon
+
+Aus dem Logo ergäbe sich bspw. diese Möglichkeit für ein Favicon
+
+<img src="sternwarte-favicon.png" width="16" />
+<img src="sternwarte-favicon.png" width="32" />
+<img src="sternwarte-favicon.png" width="64" />
+
+<img src="sternwarte-favicon2.png" width="16" />
+<img src="sternwarte-favicon2.png" width="32" />
+<img src="sternwarte-favicon2.png" width="64" />
