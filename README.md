@@ -2,6 +2,8 @@
 
 ## Farbpalette
 
+Die folgende Farbpalete orientiert sich an den Farben eines Abend- und Nachthimmels. Auf diesen Farben basiert dann auch die Variation in der Darstellung des Logos.
+
 <table style="width: fit-content">
     <thead>
         <tr>
@@ -131,3 +133,10 @@ Aus dem Logo ergäbe sich bspw. diese Möglichkeit für ein Favicon
 <img src="sternwarte-favicon2.png" width="16" />
 <img src="sternwarte-favicon2.png" width="32" />
 <img src="sternwarte-favicon2.png" width="64" />
+
+## Quadratische Alternative
+
+Für den Einsatz als quadratische Variante mit mehr Details als im Favicon können die Landmarken noch zusätzlich aufgenommen werden.
+
+<img src="square-bg6-fg1.png" width="144" />
+<img src="square-bg6-fg1-emphasize.png" width="144" />
